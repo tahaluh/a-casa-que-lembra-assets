@@ -1,0 +1,22 @@
+{
+  "files": {
+    "painel-Red.png": "aa851b5014c5fc90dca29faef64a62b7702fcac31e471fff8c59eb40a5cce942",
+    "painel-Blue.png": "3c9c7b8acef11c38d1f645991516f9b49b4b89acefd88324a82ebfdcafcecbef",
+    "painel-White.png": "acc4e26f4b8d3dd2ca2a100d718ea8b516142ea3a4b4856f4a7754a01675b4f8",
+    "painel-Yellow.png": "cb4397b3b754738211fcbf3179c8dee3a89e1ebcbaa8f05e9d23a1d1f21755e0",
+    "painel-Green.png": "1914094948e41f904131869a4dd110abeaf5e7a866baeb2419127f532c881fa4",
+    "Manual-A-Casa-que-Lembra-0.6.15-escadaria.pdf": "07bb9a147666720bda19e9d458782d3370a950ed00a20af1dae9fc9191fc3251",
+    "registro-xp4.png": "a9df75d78a70427d9e6da0371e16ed9469710e8e55f947be13ce63fb6efcece2",
+    "painel-Purple.png": "9a88a15cf84ca9c59296eda9eca6df5e8ae106e5f484bcef8004d50ae8e78dd6",
+    "Manual-A-Casa-que-Lembra-0.6.15-casas.pdf": "bdc109164e9ca1e8c217c21919d8645f1e4ed2a126d5bf5c02a64fb01429c10e"
+  },
+  "composition": [
+    "xp4-v0.6.15/render.py",
+    "xp4-v0.6.15/prepare_manuals.py",
+    "xp4-v0.6.15/manuais/casas/documents.py",
+    "xp4-v0.6.15/manuais/escadaria/documents.py"
+  ],
+  "source_art": "Painel e sprite históricos do próprio projeto; somente faixa XP reconstituída com a pintura/sprite original. Registro usa pintura histórica de investigadores.",
+  "new_illustration": false,
+  "scope": "XP limitado a4; mesmos poderes nos limiares2/4. Não altera a geometria das mesas."
+}
