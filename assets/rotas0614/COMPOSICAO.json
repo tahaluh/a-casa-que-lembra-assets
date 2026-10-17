@@ -1,0 +1,8 @@
+{
+  "file": "plantas-16-rotas.png",
+  "sha256": "f937f8b0fc931e4ae5862ad374960af01cbfebbe99b9244c6effcce1e7b89c98",
+  "source": "rotas-v0.6.14/render_plants.py; design-ritmo/PLANTAS-LEVES.json",
+  "illustration": "Pintura existente do próprio projeto; tipografia e diagrama nativos.",
+  "new_illustration": false,
+  "scope": "Oito Plantas Casa16: 16 salas/23 corredores, mesmas Reservas e porta contornável. Experimento, não regra padrão."
+}
