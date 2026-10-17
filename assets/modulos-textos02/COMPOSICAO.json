@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "file": "intrigas-referencias.png",
+      "sha256": "9d199b10392c8f362cf0005a174a5b983daa947793d28c061e3de932844d2f0e",
+      "composition": "revisao-modulos/render_refs.py",
+      "new_illustration": false
+    },
+    {
+      "file": "ecos-referencias.png",
+      "sha256": "cc851a6846521dfd70a020ee594e03291499a5d9af37d9cfe3eef3db1cfcad0b",
+      "composition": "revisao-modulos/render_refs.py",
+      "new_illustration": false
+    },
+    {
+      "file": "Guia-dos-Modulos.pdf",
+      "sha256": "61b43ddf5f9376347ad091dd92a5b3be0beb3b1ed512739a55742f64d6458089",
+      "composition": "revisao-modulos/documents.py",
+      "new_illustration": false
+    }
+  ],
+  "illustration_source": "Pintura histórica do próprio projeto; tipografia nativa; sem geração de arte nova nesta revisão.",
+  "rule_changes": 0
+}
