@@ -1,0 +1,29 @@
+{
+  "description": "Piloto opcional: uma escolha em Medalhão frio. Outras 23 cartas e verso preservados.",
+  "composition": {
+    "source": "textos-v0.6.3/assets/m-exploracao-faces.png",
+    "source_sha256": "dc40a6b33394a044e0c11b5df30a16973ef976b3c594d234fe558a85e88de003",
+    "target_cell": 3,
+    "grid": [
+      5,
+      5
+    ],
+    "changed_rectangle_in_cell": [
+      25,
+      172,
+      487,
+      674
+    ],
+    "font": "DejaVu Sans",
+    "font_size": 22,
+    "lines": 11,
+    "line_height": 26,
+    "body": "ESCOLHA UMA OPÇÃO\nSEGURO — receba 1 moeda.\nNão role o dado.\nARRISCADO — receba 1 relíquia.\nDepois, role 1d6: em 1–2, sofra 1 dano; em 3–6, nada mais acontece. Mantenha a relíquia mesmo se cair.\nEscolha antes de rolar. Sem ação extra.\nConte esta busca no limite de quatro. Descarte esta carta.",
+    "new_ai_illustration": false,
+    "provenance": "Pintura e cabeçalho da carta original preservados; somente bloco de texto recomposto."
+  },
+  "files": {
+    "exploracao-escolha.png": "dad6f49616fec67bf65127e086c9cdbd5d397cb27d4a372921d06647bb8a77c0",
+    "Guia-Exploracao-Escolha-01.pdf": "863b139ecb03d6d5a12b4be1bbe8b9d0a62048ce65aca48fdc1e16b7297f2641"
+  }
+}
