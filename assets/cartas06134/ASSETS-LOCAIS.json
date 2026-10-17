@@ -1,0 +1,30 @@
+{
+  "source_review": "auditoria-visual/CANDIDATAS.json",
+  "runtime_images": 14,
+  "raw_art": 1,
+  "limiar_bits_by_cell": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    0
+  ],
+  "hashes": {
+    "art/limiar-capela.png": "44e6039acf50f5ead8f8206e3a17578ce323b92c7dd00ac203d753b86225d317",
+    "dossies-e8.png": "c365eacb543c60302f48a218d93ce6a84ebba81f4b50afe4cef5684ffe7a6aec",
+    "habilidade-arquivista.png": "921f5f2073ef91b0bfb411e74fef5ded6871b77c8bc30e0cdf440d8a886cba38",
+    "habilidade-explorador.png": "e01f01749b8a422990f536f1627a90eb570b7c47564eb94e74da010db6f5043c",
+    "habilidade-guarda.png": "14a346467207c581bc5ce857ac8b13e96d6a807a0faad67efccb1b01be1145c3",
+    "habilidade-medium.png": "054d9266cb445a8e40a91eb4ff7c8517b41fc63a2da664a44db36a965616df44",
+    "habilidade-socorrista.png": "a3f6188f11427bd9d02429dbfba5c7dc68893a50f54bb65584dc8747749d8ca4",
+    "habilidade-zelador.png": "57273f824c0d13ae4804ca6af0f8cfae04dc407dada65316b805eb9a19d9ba90",
+    "limiar-faces.png": "c36cfd3852a88cf168a9c19f5312d58bec181e639a26d16ef118b3b6142654bc",
+    "origem-4.png": "7d3517ed45da164d209d888808f99973aa99c108fb17111741090593aed6a30f",
+    "origem-5.png": "7b8da8c84fb82eacff3392dd7af1dc0362cb3a94cbad500d1b6190c281043bd5",
+    "origem-6.png": "4d03c36fbc110ae22756322702019bbbdd0811641ba8b9db4f3763f6ac3662f3",
+    "origem-7.png": "9fcd467c06151110d6d77be6a937747eeb3900949776284a4609bece870293b0",
+    "origem-8.png": "8e3a266ee127d89e76b3c518422a3bc9cff07b8f2be6b3c72aee95cb1caf037e",
+    "verso-limiar.png": "69eb7ea5327ae50e34b7754f3e5c31f1226fa2aae6224bb9798760e21486af54"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "tool": "image_gen.imagegen (built-in)",
+  "asset": "assets/art/limiar-capela.png",
+  "prompt": "Use case: stylized-concept. Asset type: finished painted raster illustration for the supernatural horror boardgame A Casa que Lembra, specifically the LIMIAR / CAPELA investigation card. Generate a NEW portrait image, 2:3 aspect ratio. Subject: a clearly recognizable worn stone threshold and carved dark wooden doorway into a small abandoned Brazilian manor chapel. Show the threshold and door frame prominently in the upper two thirds, candlelit chapel receding softly beyond, aged brass details, deep muted plum, smoky amber and charcoal palette, tactile premium oil-painted boardgame realism with fine antique engraving at the outer edge. Quiet supernatural dread, no creature or person. Composition: flat printable full bleed card artwork, straight-on view, entire frame contained; lower third becomes naturally quiet very dark plum parchment for later rules typesetting. No panel, no text, no numbers, no letters, no logo, no watermark, no vector icons, no mirror, no basin, no handbell, no eyes or faces, no gore. Result neutral: no test marks, chalk line, broken seal or supernatural glow that implies SIM or NAO. This single same illustration will be used for both possible printed test results; keep the art entirely neutral. Match a sophisticated illustrated haunted manor game, not a photograph of a physical card or a 3D mockup.",
+  "raw_output_sha256": "44e6039acf50f5ead8f8206e3a17578ce323b92c7dd00ac203d753b86225d317",
+  "intent": "Ilustração nova; mesmo fundo neutro para ambos os resultados.",
+  "native_composition": "prepare_assets.py + auditoria-visual/candidates.py; regras e assinaturas preservadas."
+}
