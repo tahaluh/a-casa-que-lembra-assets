@@ -5,10 +5,10 @@
     "painel-White.png": "acc4e26f4b8d3dd2ca2a100d718ea8b516142ea3a4b4856f4a7754a01675b4f8",
     "painel-Yellow.png": "cb4397b3b754738211fcbf3179c8dee3a89e1ebcbaa8f05e9d23a1d1f21755e0",
     "painel-Green.png": "1914094948e41f904131869a4dd110abeaf5e7a866baeb2419127f532c881fa4",
-    "Manual-A-Casa-que-Lembra-0.6.15-escadaria.pdf": "07bb9a147666720bda19e9d458782d3370a950ed00a20af1dae9fc9191fc3251",
+    "Manual-A-Casa-que-Lembra-0.6.15-escadaria.pdf": "c477fef95e04ec336b580c0c548c64e51734886488da9398a853f0cf6b1d1425",
     "registro-xp4.png": "a9df75d78a70427d9e6da0371e16ed9469710e8e55f947be13ce63fb6efcece2",
     "painel-Purple.png": "9a88a15cf84ca9c59296eda9eca6df5e8ae106e5f484bcef8004d50ae8e78dd6",
-    "Manual-A-Casa-que-Lembra-0.6.15-casas.pdf": "bdc109164e9ca1e8c217c21919d8645f1e4ed2a126d5bf5c02a64fb01429c10e"
+    "Manual-A-Casa-que-Lembra-0.6.15-casas.pdf": "690fff4ce25037782fb062ec5927496e78038862da806e99b0295622fccb2905"
   },
   "composition": [
     "xp4-v0.6.15/render.py",
