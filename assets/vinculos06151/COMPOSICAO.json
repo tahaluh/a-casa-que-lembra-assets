@@ -1,0 +1,67 @@
+{
+  "note": "Esclarecimento editorial: Vínculos usam cor do assento. Arte e regras anteriores preservadas.",
+  "composition": {
+    "vinculos": [
+      {
+        "index": 0,
+        "color": "Branco",
+        "font_size": 22,
+        "lines": 9,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO BRANCO.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      },
+      {
+        "index": 1,
+        "color": "Vermelho",
+        "font_size": 22,
+        "lines": 10,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO VERMELHO.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      },
+      {
+        "index": 2,
+        "color": "Azul",
+        "font_size": 22,
+        "lines": 9,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO AZUL.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      },
+      {
+        "index": 3,
+        "color": "Verde",
+        "font_size": 22,
+        "lines": 9,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO VERDE.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      },
+      {
+        "index": 4,
+        "color": "Amarelo",
+        "font_size": 22,
+        "lines": 10,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO AMARELO.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      },
+      {
+        "index": 5,
+        "color": "Roxo",
+        "font_size": 22,
+        "lines": 9,
+        "body": "Se seu objetivo atual pedir um alvo, use quem ocupa o ASSENTO ROXO.\nA cor do personagem não define o alvo.\nEsta carta não cria uma missão. Se sua meta não pedir alvo, mantenha o Vínculo em segredo.\nSeu personagem e seu objetivo não mudam. Revele ao encerrar a partida."
+      }
+    ],
+    "referencia": [
+      {
+        "key": "objetivo-assentos",
+        "size": 27,
+        "width": 600,
+        "height": 690,
+        "used": 672,
+        "text": "Leia Objetivo e Vínculo em segredo. O Vínculo usa a cor do ASSENTO; a cor do personagem não define o alvo. Só vale quando sua meta pedir alvo.\n\nBanir não garante vitória individual. Ao encerrar, esteja consciente e confira sua condição completa.\n\nConte recursos, equipamentos e vida no instante do fim. Não há ação, troca ou resgate depois. Revelem Objetivos e Vínculos e confiram cada pessoa.\n\nEm Segredos, não há ataque humano, roubo ou pacto. Relatos privados e intenções podem ser mentira; custos, dados e estado público seguem as regras.\n\nConsulte o manual antes de usar Sombrio ou módulos."
+      }
+    ],
+    "new_ai_illustration": false,
+    "preserved": "Cabeçalhos e pinturas dos vínculos, verso comum, células vazias e orientação."
+  },
+  "sha256": {
+    "vinculos-assentos.png": "9585f17469bca29c25455179b98f002be64662c491572b14a4cb60e2978e289e",
+    "guia-objetivo.png": "9887a8e76a0a4501ba9983d679a45922603c9e6bd12cd797eb37acf5b94bdb85",
+    "Manual-A-Casa-que-Lembra-0.6.15.1-casas.pdf": "773242a90e25204e31a805afed1e3ef9f26fa4841fd0909b81dcd8bf9dbea29d",
+    "Manual-A-Casa-que-Lembra-0.6.15.1-escadaria.pdf": "63b6548dffa4090d305265c6c54778a689ed7c25b45e847424aa60fcdf33b238"
+  }
+}
