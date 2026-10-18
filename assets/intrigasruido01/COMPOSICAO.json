@@ -1,0 +1,23 @@
+{
+  "source": "casas-v0.6.12/artes/fundo-pintado.png",
+  "source_sha256": "cb24ad10e6d37044d9c3d34bedbb2262a26047fd8fbc07084595c302d33dd3f1",
+  "font": "DejaVu Sans",
+  "font_size": 24,
+  "lines": [
+    "1 ação: coloque 2 ruídos no seu cômodo",
+    "revelado. Sem dado, material ou XP.",
+    "Pode repetir pagando outra ação.",
+    "Não provoca caçada imediata nem",
+    "escolhe o alvo.",
+    "Você se expõe também. Sair custa",
+    "movimento normal; quem ficar pode",
+    "sair ou se proteger.",
+    "Já no mapa e identificados: Hóspede",
+    "prioriza relíquias; Veladora segue o",
+    "portador consciente da Chama.",
+    "Manifestação inicial usa a regra comum."
+  ],
+  "body": "1 ação: coloque 2 ruídos no seu cômodo revelado. Sem dado, material ou XP. Pode repetir pagando outra ação.\nNão provoca caçada imediata nem escolhe o alvo.\nVocê se expõe também. Sair custa movimento normal; quem ficar pode sair ou se proteger.\nJá no mapa e identificados: Hóspede prioriza relíquias; Veladora segue o portador consciente da Chama. Manifestação inicial usa a regra comum.",
+  "new_ai_art": false,
+  "provenance": "Compositor nativo de Intrigas sobre textura pintada já existente."
+}
