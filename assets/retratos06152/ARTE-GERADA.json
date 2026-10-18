@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-18",
+  "entries": [
+    {
+      "id": "batente",
+      "tool": "image_gen.imagegen",
+      "mode": "built_in_edit",
+      "prompt": "Use case: text-localization. Asset type: revealed creature portrait for Portuguese horror boardgame A Casa que Lembra. Image 1 is the edit target: a wooden supernatural doorway creature, preserve its composition, face, hands, framing, painting, lighting, colors, and portrait aspect ratio 1024x1536. Image 2 is STYLE REFERENCE ONLY: match its restrained antique gold serif title and fine organic gold ornament at bottom, no boxed UI, no flat vector look. Edit image 1 only: add a highly legible bottom title in two centered lines, exact Portuguese text: \"A APARIÇÃO\" then \"DO BATENTE\". Keep the accents exactly, APARIÇÃO includes Ç and Ã. Place title and understated aged gold flourish in bottom 19% over a subtle dark vignette, preserving the creature and both hands entirely. Do not add any other text. Keep all painting above the bottom title region unchanged as closely as possible. Output one finished target portrait only, no montage, no reference image.",
+      "original_source": "auditoria-visual/faces/VIS-36d326881278.png",
+      "style_reference": "auditoria-visual/faces/VIS-d195eb04ea73.png",
+      "output": "assets/retrato-batente.png",
+      "inspection": "Nome, acentuação, posição, mãos e composição conferidos visualmente na saída de 1024 × 1536. Edição generativa pode alterar outros pixels; não há garantia de invariância de pintura.",
+      "parent_source_url": "https://raw.githubusercontent.com/tahaluh/a-casa-que-lembra-assets/10015aebd7530422babd901c162b20d45ccb8380/assets/elenco068/art/batente.png",
+      "parent_asset_sha256": "1c027962ca58a28ac550aea895d7743a1d1c5eb41204be6bac4c75e002c8daca",
+      "output_sha256": "0a7d9323e50ce17f0e9d8a823a34330a169dadfb2d50deba8608f9cb2d89fcf1",
+      "title": "A APARIÇÃO DO BATENTE"
+    },
+    {
+      "id": "veladora",
+      "tool": "image_gen.imagegen",
+      "mode": "built_in_edit",
+      "prompt": "Use case: text-localization. Asset type: revealed creature portrait for Portuguese horror boardgame A Casa que Lembra. Image 1 is the edit target: a veiled candle-bearing ghost, preserve its composition, face, hands, candle, framing, painting, lighting, colors, and portrait aspect ratio 1024x1536. Image 2 is STYLE REFERENCE ONLY: match its restrained antique gold serif title and fine organic gold ornament at bottom, no boxed UI, no flat vector look. Edit image 1 only: add a highly legible bottom title, exact Portuguese text \"A VELADORA\". Center it with understated aged gold flourish in the bottom 19%, over a subtle dark vignette, preserving the candle and both hands entirely. Do not add any other text. Keep all painting above the bottom title region unchanged as closely as possible. Output one finished target portrait only, no montage, no reference image.",
+      "original_source": "auditoria-visual/faces/VIS-43f99e1e5062.png",
+      "style_reference": "auditoria-visual/faces/VIS-d195eb04ea73.png",
+      "output": "assets/retrato-veladora.png",
+      "inspection": "Nome, acentuação, posição, mãos e composição conferidos visualmente na saída de 1024 × 1536. Edição generativa pode alterar outros pixels; não há garantia de invariância de pintura.",
+      "parent_source_url": "https://raw.githubusercontent.com/tahaluh/a-casa-que-lembra-assets/10015aebd7530422babd901c162b20d45ccb8380/assets/elenco068/art/veladora.png",
+      "parent_asset_sha256": "86dbd2bf65ba21275ecca64f74c36568b9d6b329cded686d0ace1d054b8ceb8b",
+      "output_sha256": "ccf0867cb0470521e4677e35fc30e57bbffc2fcbd867ef0bc57d379068883487",
+      "title": "A VELADORA"
+    }
+  ]
+}
